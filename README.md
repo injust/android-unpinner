@@ -15,9 +15,7 @@ Please shamelessly copy whatever idea you like into other tools. :-)
 ## Installation
 
 ```console
-$ git clone https://github.com/mitmproxy/android-unpinner.git
-$ cd android-unpinner
-$ pip install -e .
+$ pip install git+https://github.com/mitmproxy/android-unpinner.git
 ```
 
 ## Usage
